@@ -1,0 +1,7 @@
+C:\Users\rajku\documents\visual studio 2013\Projects\SampleHelloWorld\SampleTest\bin\Debug\SampleTest.dll
+C:\Users\rajku\documents\visual studio 2013\Projects\SampleHelloWorld\SampleTest\bin\Debug\SampleTest.pdb
+C:\Users\rajku\documents\visual studio 2013\Projects\SampleHelloWorld\SampleTest\bin\Debug\SampleHelloWorld.exe
+C:\Users\rajku\documents\visual studio 2013\Projects\SampleHelloWorld\SampleTest\bin\Debug\SampleHelloWorld.pdb
+C:\Users\rajku\documents\visual studio 2013\Projects\SampleHelloWorld\SampleTest\obj\Debug\SampleTest.csprojResolveAssemblyReference.cache
+C:\Users\rajku\documents\visual studio 2013\Projects\SampleHelloWorld\SampleTest\obj\Debug\SampleTest.dll
+C:\Users\rajku\documents\visual studio 2013\Projects\SampleHelloWorld\SampleTest\obj\Debug\SampleTest.pdb
