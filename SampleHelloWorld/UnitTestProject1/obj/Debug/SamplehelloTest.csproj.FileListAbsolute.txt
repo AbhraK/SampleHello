@@ -1,0 +1,1 @@
+c:\users\rajku\documents\visual studio 2013\Projects\SampleHelloWorld\UnitTestProject1\obj\Debug\SamplehelloTest.csprojResolveAssemblyReference.cache

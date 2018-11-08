@@ -1,0 +1,6 @@
+c:\users\rajku\documents\visual studio 2013\Projects\SampleHelloWorld\SampleHelloWorld\bin\Debug\SampleHelloWorld.exe.config
+c:\users\rajku\documents\visual studio 2013\Projects\SampleHelloWorld\SampleHelloWorld\bin\Debug\SampleHelloWorld.exe
+c:\users\rajku\documents\visual studio 2013\Projects\SampleHelloWorld\SampleHelloWorld\bin\Debug\SampleHelloWorld.pdb
+c:\users\rajku\documents\visual studio 2013\Projects\SampleHelloWorld\SampleHelloWorld\obj\Debug\SampleHello.csprojResolveAssemblyReference.cache
+c:\users\rajku\documents\visual studio 2013\Projects\SampleHelloWorld\SampleHelloWorld\obj\Debug\SampleHelloWorld.exe
+c:\users\rajku\documents\visual studio 2013\Projects\SampleHelloWorld\SampleHelloWorld\obj\Debug\SampleHelloWorld.pdb
