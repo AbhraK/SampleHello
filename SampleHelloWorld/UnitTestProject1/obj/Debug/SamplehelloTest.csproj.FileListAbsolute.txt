@@ -1,7 +1,0 @@
-c:\users\rajku\documents\visual studio 2013\Projects\SampleHelloWorld\UnitTestProject1\obj\Debug\SamplehelloTest.csprojResolveAssemblyReference.cache
-C:\Users\rajku\documents\visual studio 2013\Projects\SampleHelloWorld\UnitTestProject1\bin\Debug\UnitTestProject1.dll
-C:\Users\rajku\documents\visual studio 2013\Projects\SampleHelloWorld\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
-C:\Users\rajku\documents\visual studio 2013\Projects\SampleHelloWorld\UnitTestProject1\bin\Debug\SampleHelloWorld.exe
-C:\Users\rajku\documents\visual studio 2013\Projects\SampleHelloWorld\UnitTestProject1\bin\Debug\SampleHelloWorld.pdb
-C:\Users\rajku\documents\visual studio 2013\Projects\SampleHelloWorld\UnitTestProject1\obj\Debug\UnitTestProject1.dll
-C:\Users\rajku\documents\visual studio 2013\Projects\SampleHelloWorld\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
