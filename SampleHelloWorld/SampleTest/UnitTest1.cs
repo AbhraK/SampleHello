@@ -11,6 +11,7 @@ namespace SampleTest
         [TestMethod]
         public void TestMethod1()
         {
+            //Testing Code
             Assert.AreEqual("hello world", Program.CreateMessage());
         }
     }
