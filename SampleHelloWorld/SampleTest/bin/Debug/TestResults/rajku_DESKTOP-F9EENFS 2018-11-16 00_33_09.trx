@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="64815c8e-03ce-4c0b-995b-4d78bcc67bf4" name="rajku@DESKTOP-F9EENFS 2018-11-16 00:33:09" runUser="DESKTOP-F9EENFS\rajku" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="31addb3b-7fd8-4b2d-acca-aad91dda921b">
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="rajku_DESKTOP-F9EENFS 2018-11-16 00_33_09" />
+    <Properties />
+  </TestSettings>
+  <Times creation="2018-11-16T00:33:09.7054821+05:30" queuing="2018-11-16T00:33:10.8406295+05:30" start="2018-11-16T00:33:11.3474646+05:30" finish="2018-11-16T00:33:12.2285482+05:30" />
+  <ResultSummary outcome="Completed">
+    <Counters total="2" executed="2" passed="2" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod2" storage="sampletest.dll" id="988b4305-a033-f1bd-b094-a6c7af69fd91">
+      <Execution id="3bc702dd-ce5c-45cd-adf1-81ea2881001e" />
+      <TestMethod codeBase="C:/Users/rajku/Documents/Visual Studio 2013/Projects/SampleHelloWorld/SampleTest/bin/Debug/SampleTest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SampleTest.UnitTest1, SampleTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod2" />
+    </UnitTest>
+    <UnitTest name="TestMethod1" storage="sampletest.dll" id="71950bbe-5971-4be4-9c8b-23e090c15166">
+      <Execution id="cf4ab31f-2b72-492b-85d1-49de4fa31249" />
+      <TestMethod codeBase="C:/Users/rajku/Documents/Visual Studio 2013/Projects/SampleHelloWorld/SampleTest/bin/Debug/SampleTest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SampleTest.UnitTest1, SampleTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="71950bbe-5971-4be4-9c8b-23e090c15166" executionId="cf4ab31f-2b72-492b-85d1-49de4fa31249" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="988b4305-a033-f1bd-b094-a6c7af69fd91" executionId="3bc702dd-ce5c-45cd-adf1-81ea2881001e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="cf4ab31f-2b72-492b-85d1-49de4fa31249" testId="71950bbe-5971-4be4-9c8b-23e090c15166" testName="TestMethod1" computerName="DESKTOP-F9EENFS" duration="00:00:00.0148713" startTime="2018-11-16T00:33:11.4675437+05:30" endTime="2018-11-16T00:33:12.1730103+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cf4ab31f-2b72-492b-85d1-49de4fa31249">
+    </UnitTestResult>
+    <UnitTestResult executionId="3bc702dd-ce5c-45cd-adf1-81ea2881001e" testId="988b4305-a033-f1bd-b094-a6c7af69fd91" testName="TestMethod2" computerName="DESKTOP-F9EENFS" duration="00:00:00.0003148" startTime="2018-11-16T00:33:12.1795147+05:30" endTime="2018-11-16T00:33:12.1830174+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3bc702dd-ce5c-45cd-adf1-81ea2881001e">
+    </UnitTestResult>
+  </Results>
+</TestRun>
