@@ -14,7 +14,7 @@ namespace SampleHello
         }
         public static string CreateMessage1()
         {
-            return "hello world !!";
+            return "hello world";
         }
         public static string CreateMessage2()
         {
