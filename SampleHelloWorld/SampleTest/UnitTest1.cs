@@ -12,7 +12,13 @@ namespace SampleTest
         public void TestMethod1()
         {
             //Testing Code
-            Assert.AreEqual("hello world", Program.CreateMessage());
+            Assert.AreEqual("hello world", Program.CreateMessage1());
+        }
+        [TestMethod]
+        public void TestMethod2()
+        {
+            //Testing Code
+            Assert.AreEqual("hello india", Program.CreateMessage2());
         }
     }
 }
